@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-06",
+  "repository": "JohnTheFarm3r/ModTileManager-Camera-Mods",
+  "devices": [
+    {
+      "id": "aurora",
+      "codename": "aurora",
+      "name": "Xiaomi 14 Ultra",
+      "model_ids": [
+        "24031PN0DC"
+      ]
+    },
+    {
+      "id": "xuanyuan",
+      "codename": "xuanyuan",
+      "name": "Xiaomi 15 Ultra",
+      "model_ids": [
+        "25010PN30G"
+      ]
+    },
+    {
+      "id": "nezha",
+      "codename": "nezha",
+      "name": "Xiaomi 17 Ultra",
+      "model_ids": [
+        "25128PNA1C"
+      ]
+    }
+  ],
+  "mods": [
+    {
+      "id": "dcg16-x14u-johnthefarm3r-hos3-3-0-305-0-wnaeuxm",
+      "device_id": "aurora",
+      "name": "DCG16 12MP",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "Enables main-camera DCG16 RAW at 4096x3072.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.305.0.WNAEUXM",
+        "region": "EUXM"
+      },
+      "filename": "DCG16_12MP_X14U_JohnTheFarm3r_HOS3-3.0.305.0.WNAEUXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16_12MP_X14U_JohnTheFarm3r_HOS3-3.0.305.0.WNAEUXM.zip",
+      "size_bytes": 2988572
+    },
+    {
+      "id": "dcg16-x14u-johnthefarm3r-hos3-3-0-306-0-wnacnxm",
+      "device_id": "aurora",
+      "name": "DCG16 12MP",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "Enables main-camera DCG16 RAW at 4096x3072.",
+      "firmware": {
+        "rom": "Neoteric",
+        "version": "3.0.306.0.WNACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG16_12MP_X14U_JohnTheFarm3r_Neoteric-3.0.306.0.WNACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16_12MP_X14U_JohnTheFarm3r_Neoteric-3.0.306.0.WNACNXM.zip",
+      "size_bytes": 6214680
+    },
+    {
+      "id": "dcg16-x15u-johnthefarm3r-3-0-303-0-woaeuxm",
+      "device_id": "xuanyuan",
+      "name": "DCG16 12MP",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "Enables main-camera DCG16 RAW at 4096x3072.",
+      "firmware": {
+        "rom": "Neoteric",
+        "version": "3.0.303.0.WOAEUXM",
+        "region": "EUXM"
+      },
+      "filename": "DCG16_12MP_X15U_JohnTheFarm3r_Neoteric-3.0.303.0.WOAEUXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16_12MP_X15U_JohnTheFarm3r_Neoteric-3.0.303.0.WOAEUXM.zip",
+      "size_bytes": 17622214
+    },
+    {
+      "id": "dcg16-main60fps-tele59-x17u-johnthefarm3r-hos3-3-0-307-0-wpacnxm",
+      "device_id": "nezha",
+      "name": "DCG16 12MP Main 60fps + Tele 59fps",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "12MP RAW with main-camera DCG16 at 60fps and telephoto DCG at approximately 59fps. Includes SEMCO and OFILM main-camera variants.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.307.0.WPACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG16-Main60fps-Tele59_12MP_X17U_JohnTheFarm3r_HOS3-3.0.307.0.WPACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16-Main60fps-Tele59_12MP_X17U_JohnTheFarm3r_HOS3-3.0.307.0.WPACNXM.zip",
+      "size_bytes": 10029566
+    },
+    {
+      "id": "dcg16-main60fps-tele59-x17u-johnthefarm3r-hos3-3-0-312-0-wpacnxm",
+      "device_id": "nezha",
+      "name": "DCG16 12MP Main 60fps + Tele 59fps",
+      "version": "1.1",
+      "author": "JohnTheFarm3r",
+      "description": "12MP RAW with main-camera DCG16 at 60fps and telephoto DCG at approximately 59fps. Includes SEMCO and OFILM main-camera variants.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.312.0.WPACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG16-Main60fps-Tele59-v1.1_12MP_X17U_JohnTheFarm3r_HOS3-3.0.312.0.WPACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16-Main60fps-Tele59-v1.1_12MP_X17U_JohnTheFarm3r_HOS3-3.0.312.0.WPACNXM.zip",
+      "size_bytes": 10029626
+    },
+    {
+      "id": "dcg16-main60fps-tele59-x17u-johnthefarm3r-hos3-3-0-337-0-xpaeuxm",
+      "device_id": "nezha",
+      "name": "DCG16 12MP Main 60fps + Tele 59fps",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "12MP RAW with main-camera DCG16 at 60fps and telephoto DCG at approximately 59fps. Includes SEMCO and OFILM main-camera variants.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.337.0.XPAEUXM",
+        "region": "EUXM"
+      },
+      "filename": "DCG16-Main60fps-Tele59_12MP_X17U_JohnTheFarm3r_HOS3-3.0.337.0.XPAEUXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16-Main60fps-Tele59_12MP_X17U_JohnTheFarm3r_HOS3-3.0.337.0.XPAEUXM.zip",
+      "size_bytes": 10062574
+    },
+    {
+      "id": "dcg16-main60fps-tele59-x17u-johnthefarm3r-hos4-4-0-4-0-xpacnxm",
+      "device_id": "nezha",
+      "name": "DCG16 12MP Main 60fps + Tele 59fps",
+      "version": "1.1",
+      "author": "JohnTheFarm3r",
+      "description": "12MP RAW with main-camera DCG16 at 60fps and telephoto DCG at approximately 59fps. Includes SEMCO and OFILM main-camera variants.",
+      "firmware": {
+        "rom": "HyperOS4",
+        "version": "4.0.4.0.XPACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG16-Main60fps-Tele59-v1.1_12MP_X17U_JohnTheFarm3r_HOS4-4.0.4.0.XPACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16-Main60fps-Tele59-v1.1_12MP_X17U_JohnTheFarm3r_HOS4-4.0.4.0.XPACNXM.zip",
+      "size_bytes": 10029624
+    },
+    {
+      "id": "dcg16-x17u-johnthefarm3r-hos3-3-0-307-0-wpacnxm",
+      "device_id": "nezha",
+      "name": "DCG16 12MP",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "Enables main-camera DCG16 RAW at 4096x3072.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.307.0.WPACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG16_12MP_X17U_JohnTheFarm3r_HOS3-3.0.307.0.WPACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16_12MP_X17U_JohnTheFarm3r_HOS3-3.0.307.0.WPACNXM.zip",
+      "size_bytes": 53041
+    },
+    {
+      "id": "dcg16-x17u-johnthefarm3r-hos3-3-0-337-0-xpaeuxm",
+      "device_id": "nezha",
+      "name": "DCG16 12MP",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "Enables main-camera DCG16 RAW at 4096x3072.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.337.0.XPAEUXM",
+        "region": "EUXM"
+      },
+      "filename": "DCG16_12MP_X17U_JohnTheFarm3r_HOS3-3.0.337.0.XPAEUXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16_12MP_X17U_JohnTheFarm3r_HOS3-3.0.337.0.XPAEUXM.zip",
+      "size_bytes": 69559
+    },
+    {
+      "id": "dcg16-x17u-johnthefarm3r-hos4-4-0-4-0-xpacnxm",
+      "device_id": "nezha",
+      "name": "DCG16 12MP",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "Enables main-camera DCG16 RAW at 4096x3072.",
+      "firmware": {
+        "rom": "HyperOS4",
+        "version": "4.0.4.0.XPACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG16_12MP_X17U_JohnTheFarm3r_HOS4-4.0.4.0.XPACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16_12MP_X17U_JohnTheFarm3r_HOS4-4.0.4.0.XPACNXM.zip",
+      "size_bytes": 53116
+    },
+    {
+      "id": "dcg8-tele-x15u-johnthefarm3r-hos3-3-0-314-0-woacnxm",
+      "device_id": "xuanyuan",
+      "name": "DCG8 Tele 12MP",
+      "version": "0.2",
+      "author": "JohnTheFarm3r",
+      "description": "Enables 5x telephoto DCG8 RAW at 4080x3072 with an ISO50-766 gain range.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.314.0.WOACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG8-Tele-12MP_X15U_JohnTheFarm3r_3.0.314.0.WOACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG8-Tele-12MP_X15U_JohnTheFarm3r_3.0.314.0.WOACNXM.zip",
+      "size_bytes": 17979266
+    },
+    {
+      "id": "dcg8-tele-30fps-x15u-johnthefarm3r-hos3-3-0-304-0-woaeuxm",
+      "device_id": "xuanyuan",
+      "name": "DCG8 Tele 12MP 30FPS",
+      "version": "0.3",
+      "author": "JohnTheFarm3r",
+      "description": "Enables 5x telephoto DCG8 RAW at 4080x3072 and 30fps with an ISO50-766 gain range.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.304.0.WOAEUXM",
+        "region": "EUXM"
+      },
+      "filename": "DCG8-Tele-30FPS_12MP_X15U_JohnTheFarm3r_HOS3-3.0.304.0.WOAEUXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG8-Tele-30FPS_12MP_X15U_JohnTheFarm3r_HOS3-3.0.304.0.WOAEUXM.zip",
+      "size_bytes": 17977764
+    },
+    {
+      "id": "dcg8-tele-30fps-x15u-johnthefarm3r-hos4-4-0-0-10-xoaeuxm-beta1",
+      "device_id": "xuanyuan",
+      "name": "DCG8 Tele 12MP 30FPS",
+      "version": "0.3",
+      "author": "JohnTheFarm3r",
+      "description": "Enables 5x telephoto DCG8 RAW at 4080x3072 and 30fps with an ISO50-766 gain range.",
+      "firmware": {
+        "rom": "HyperOS4",
+        "version": "4.0.0.10.XOAEUXM Beta1",
+        "region": "EUXM"
+      },
+      "filename": "DCG8-Tele-30FPS_12MP_X15U_JohnTheFarm3r_HOS4-4.0.0.10.XOAEUXM-Beta1.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG8-Tele-30FPS_12MP_X15U_JohnTheFarm3r_HOS4-4.0.0.10.XOAEUXM-Beta1.zip",
+      "size_bytes": 17994666
+    },
+    {
+      "id": "dcg16-x15u-johnthefarm3r-neoteric-3-0-314-0-woacnxm",
+      "device_id": "xuanyuan",
+      "name": "DCG16 12MP",
+      "version": "1.0",
+      "author": "JohnTheFarm3r",
+      "description": "Enables main-camera DCG16 RAW at 4096x3072 for Neoteric with the CN 3.0.314.0.WOACNXM camera base.",
+      "firmware": {
+        "rom": "Neoteric",
+        "version": "3.0.314.0.WOACNXM",
+        "region": "CNXM"
+      },
+      "filename": "DCG16_12MP_X15U_JohnTheFarm3r_Neoteric-3.0.314.0.WOACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/DCG16_12MP_X15U_JohnTheFarm3r_Neoteric-3.0.314.0.WOACNXM.zip",
+      "size_bytes": 8904150
+    },
+    {
+      "id": "fullraw-af-50mp-x15u-johnthefarm3r-hos4-4-0-0-10-xoaeuxm",
+      "device_id": "xuanyuan",
+      "name": "50MP-GCam X15U HOS4 4.0.0.10.XOAEUXM",
+      "version": "1.8",
+      "author": "JohnTheFarm3r",
+      "description": "50MP RAW on all four rear lenses through physical camera IDs or logical camera 0, with full-size sensor arrays advertised so GCam 50MP works on the main camera. Xiaomi 15 Ultra, HyperOS 4.0.0.10.XOAEUXM.",
+      "firmware": {
+        "rom": "HyperOS4",
+        "version": "4.0.0.10.XOAEUXM",
+        "region": "EUXM"
+      },
+      "filename": "50MP-GCam_X15U_JohnTheFarm3r_HOS4-4.0.0.10.XOAEUXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/50MP-GCam_X15U_JohnTheFarm3r_HOS4-4.0.0.10.XOAEUXM.zip",
+      "size_bytes": 6525855
+    },
+    {
+      "id": "fullraw-50mp-x15u-johnthefarm3r-hos3-3-0-314-0-woacnxm",
+      "device_id": "xuanyuan",
+      "name": "50MP-GCam X15U HOS3 3.0.314.0.WOACNXM",
+      "version": "0.6",
+      "author": "JohnTheFarm3r",
+      "description": "50MP RAW on all four rear lenses through physical camera IDs or logical camera 0, with full-size sensor arrays advertised so GCam 50MP works on the main camera. Xiaomi 15 Ultra, HyperOS 3.0.314.0.WOACNXM.",
+      "firmware": {
+        "rom": "HyperOS3",
+        "version": "3.0.314.0.WOACNXM",
+        "region": "CNXM"
+      },
+      "filename": "50MP-GCam_X15U_JohnTheFarm3r_HOS3-3.0.314.0.WOACNXM.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/50MP-GCam_X15U_JohnTheFarm3r_HOS3-3.0.314.0.WOACNXM.zip",
+      "size_bytes": 6512234
+    },
+    {
+      "id": "fullraw-50mp-x15u-johnthefarm3r-neoteric-only-5-0-314cn-v0-1",
+      "device_id": "xuanyuan",
+      "name": "50MP-GCam X15U 314CN-based NeotericOS ONLY",
+      "version": "0.4",
+      "author": "JohnTheFarm3r",
+      "description": "50MP RAW on all four rear lenses through physical camera IDs or logical camera 0, with full-size sensor arrays advertised so GCam 50MP works on the main camera. Xiaomi 15 Ultra, 314CN-based NeotericOS ONLY.",
+      "firmware": {
+        "rom": "NeotericOS",
+        "version": "5.0 (314CN-based OS3.0.314.0.WOACNXM)",
+        "region": "CNXM"
+      },
+      "filename": "50MP-GCam_X15U_JohnTheFarm3r_NeotericOS-314CN-ONLY.zip",
+      "download_url": "https://github.com/JohnTheFarm3r/ModTileManager-Camera-Mods/releases/download/camera-mods-2026-10-23/50MP-GCam_X15U_JohnTheFarm3r_NeotericOS-314CN-ONLY.zip",
+      "size_bytes": 6512235
+    }
+  ]
+}
